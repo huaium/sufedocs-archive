@@ -1,0 +1,64 @@
+name: Upload metadata
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  BACKUP_ACCESS_KEY_ID: ${{ secrets.BACKUP_ACCESS_KEY_ID }}
+  BACKUP_ENDPOINT: ${{ secrets.BACKUP_ENDPOINT }}
+  BACKUP_FILE_BUCKET: ${{ secrets.BACKUP_FILE_BUCKET }}
+  BACKUP_SECRET_ACCESS_KEY: ${{ secrets.BACKUP_SECRET_ACCESS_KEY }}
+  BYRDOCS_CHECK_REPO_NAME: byrdocs-check
+  BYRDOCS_CHECK_REPO_OWNER: byrdocs
+  BYRDOCS_SITE_URL: ${{ secrets.BYRDOCS_SITE_URL }}
+  BYRDOCS_SITE_TOKEN: ${{ secrets.BYRDOCS_SITE_TOKEN }}
+  FILELIST_SITE_URL: ${{ secrets.FILELIST_SITE_URL }}
+  R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+  R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+  R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+  R2_DATA_BUCKET: ${{ secrets.R2_DATA_BUCKET }}
+  R2_FILE_BUCKET: ${{ secrets.R2_FILE_BUCKET }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - id: pdfium
+        name: Get pdfium-binaries latest
+        uses: pozetroninc/github-action-get-latest-release@master
+        with:
+          owner: bblanchon
+          repo: pdfium-binaries
+
+      - id: check
+        name: Get byrdocs-check release
+        uses: pozetroninc/github-action-get-latest-release@master
+        with:
+          owner: byrdocs
+          repo: byrdocs-check
+
+      - name: Download release
+        run: |
+          wget https://github.com/bblanchon/pdfium-binaries/releases/download/${{ steps.pdfium.outputs.release }}/pdfium-linux-x64.tgz
+          tar -zxvf pdfium-linux-x64.tgz
+          wget https://github.com/byrdocs/byrdocs-check/releases/download/${{ steps.check.outputs.release }}/upload-metadata
+          wget https://github.com/byrdocs/byrdocs-check/releases/download/${{ steps.check.outputs.release }}/check-format
+          chmod 777 upload-metadata
+          chmod 777 check-format
+
+      - name: Check format
+        env:
+          METADATA_DIR: ./metadata
+        run: |
+          ./check-format
+      - name: Upload metadata
+        env:
+          METADATA_DIR: ./metadata
+        run: |
+          ./upload-metadata
