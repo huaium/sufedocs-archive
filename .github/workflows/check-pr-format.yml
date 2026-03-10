@@ -7,12 +7,10 @@ on:
       - main
 
 env:
-  BACKUP_ACCESS_KEY_ID: ${{ secrets.BACKUP_ACCESS_KEY_ID }}
-  BACKUP_ENDPOINT: ${{ secrets.BACKUP_ENDPOINT }}
-  BACKUP_FILE_BUCKET: ${{ secrets.BACKUP_FILE_BUCKET }}
-  BACKUP_SECRET_ACCESS_KEY: ${{ secrets.BACKUP_SECRET_ACCESS_KEY }}
-  BYRDOCS_CHECK_REPO_NAME: byrdocs-check
-  BYRDOCS_CHECK_REPO_OWNER: byrdocs
+  CHECK_APP_ID: ${{ secrets.CHECK_APP_ID }}
+  CHECK_APP_PRIVATE_KEY: ${{ secrets.CHECK_APP_PRIVATE_KEY }}
+  BYRDOCS_CHECK_REPO_NAME: sufedocs-check
+  BYRDOCS_CHECK_REPO_OWNER: XSUFE
   BYRDOCS_SITE_URL: ${{ secrets.BYRDOCS_SITE_URL }}
   BYRDOCS_SITE_TOKEN: ${{ secrets.BYRDOCS_SITE_TOKEN }}
   FILELIST_SITE_URL: ${{ secrets.FILELIST_SITE_URL }}
@@ -52,19 +50,34 @@ jobs:
           owner: bblanchon
           repo: pdfium-binaries
 
-      - id: check
-        name: Get byrdocs-check release
-        uses: pozetroninc/github-action-get-latest-release@master
+      - id: app-token
+        name: Create GitHub App token
+        uses: actions/create-github-app-token@v2
         with:
+          app-id: ${{ env.CHECK_APP_ID }}
+          private-key: ${{ env.CHECK_APP_PRIVATE_KEY }}
           owner: ${{ env.BYRDOCS_CHECK_REPO_OWNER }}
-          repo: ${{ env.BYRDOCS_CHECK_REPO_NAME }}
+          repositories: ${{ env.BYRDOCS_CHECK_REPO_NAME }}
+
+      - id: check
+        name: Get sufedocs-check release
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: |
+          release="$(gh api repos/$BYRDOCS_CHECK_REPO_OWNER/$BYRDOCS_CHECK_REPO_NAME/releases/latest --jq .tag_name)"
+          echo "release=$release" >> "$GITHUB_OUTPUT"
 
       - name: Download release
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
           wget https://github.com/bblanchon/pdfium-binaries/releases/download/${{ steps.pdfium.outputs.release }}/pdfium-linux-x64.tgz
           tar --overwrite -zxvf pdfium-linux-x64.tgz
-          wget https://github.com/$BYRDOCS_CHECK_REPO_OWNER/$BYRDOCS_CHECK_REPO_NAME/releases/download/${{ steps.check.outputs.release }}/upload-metadata -O upload-metadata
-          wget https://github.com/$BYRDOCS_CHECK_REPO_OWNER/$BYRDOCS_CHECK_REPO_NAME/releases/download/${{ steps.check.outputs.release }}/check-format -O check-format
+          gh release download "${{ steps.check.outputs.release }}" \
+            --repo "$BYRDOCS_CHECK_REPO_OWNER/$BYRDOCS_CHECK_REPO_NAME" \
+            --pattern upload-metadata \
+            --pattern check-format \
+            --clobber
           chmod 777 upload-metadata
           chmod 777 check-format
 
