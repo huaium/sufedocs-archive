@@ -9,10 +9,10 @@ on:
 env:
   CHECK_APP_ID: ${{ secrets.CHECK_APP_ID }}
   CHECK_APP_PRIVATE_KEY: ${{ secrets.CHECK_APP_PRIVATE_KEY }}
-  BYRDOCS_CHECK_REPO_NAME: sufedocs-check
-  BYRDOCS_CHECK_REPO_OWNER: XSUFE
-  BYRDOCS_SITE_URL: ${{ secrets.BYRDOCS_SITE_URL }}
-  BYRDOCS_SITE_TOKEN: ${{ secrets.BYRDOCS_SITE_TOKEN }}
+  SUFEDOCS_CHECK_REPO_NAME: sufedocs-check
+  SUFEDOCS_CHECK_REPO_OWNER: XSUFE
+  SUFEDOCS_SITE_URL: ${{ secrets.SUFEDOCS_SITE_URL }}
+  SUFEDOCS_SITE_TOKEN: ${{ secrets.SUFEDOCS_SITE_TOKEN }}
   FILELIST_SITE_URL: ${{ secrets.FILELIST_SITE_URL }}
   R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
   R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
@@ -56,15 +56,15 @@ jobs:
         with:
           app-id: ${{ env.CHECK_APP_ID }}
           private-key: ${{ env.CHECK_APP_PRIVATE_KEY }}
-          owner: ${{ env.BYRDOCS_CHECK_REPO_OWNER }}
-          repositories: ${{ env.BYRDOCS_CHECK_REPO_NAME }}
+          owner: ${{ env.SUFEDOCS_CHECK_REPO_OWNER }}
+          repositories: ${{ env.SUFEDOCS_CHECK_REPO_NAME }}
 
       - id: check
         name: Get sufedocs-check release
         env:
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
-          release="$(gh api repos/$BYRDOCS_CHECK_REPO_OWNER/$BYRDOCS_CHECK_REPO_NAME/releases/latest --jq .tag_name)"
+          release="$(gh api repos/$SUFEDOCS_CHECK_REPO_OWNER/$SUFEDOCS_CHECK_REPO_NAME/releases/latest --jq .tag_name)"
           echo "release=$release" >> "$GITHUB_OUTPUT"
 
       - name: Download release
@@ -74,7 +74,7 @@ jobs:
           wget https://github.com/bblanchon/pdfium-binaries/releases/download/${{ steps.pdfium.outputs.release }}/pdfium-linux-x64.tgz
           tar --overwrite -zxvf pdfium-linux-x64.tgz
           gh release download "${{ steps.check.outputs.release }}" \
-            --repo "$BYRDOCS_CHECK_REPO_OWNER/$BYRDOCS_CHECK_REPO_NAME" \
+            --repo "$SUFEDOCS_CHECK_REPO_OWNER/$SUFEDOCS_CHECK_REPO_NAME" \
             --pattern upload-metadata \
             --pattern check-format \
             --clobber
@@ -94,9 +94,9 @@ jobs:
         if: failure()
         id: comment
         run: |
-          echo "body<<BYRDOCS_HEREDOC_EOF" >> $GITHUB_OUTPUT
+          echo "body<<SUFEDOCS_HEREDOC_EOF" >> $GITHUB_OUTPUT
           cat comment.txt                  >> $GITHUB_OUTPUT
-          echo "BYRDOCS_HEREDOC_EOF"       >> $GITHUB_OUTPUT
+          echo "SUFEDOCS_HEREDOC_EOF"       >> $GITHUB_OUTPUT
 
       - name: Request changes review
         if: github.event_name == 'pull_request_target' && failure()
