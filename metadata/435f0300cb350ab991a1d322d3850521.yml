@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 435f0300cb350ab991a1d322d3850521
+url: https://docs.xsufe.com/files/435f0300cb350ab991a1d322d3850521.pdf
+type: book
+data:
+  title: An Introduction to Database Systems 数据库系统导论 英文影印版
+  authors:
+    - Christopher J. Date
+  edition: "8"
+  publisher: 中国电力出版社
+  publish_year: "2006"
+  isbn:
+    - 978-7-5083-3877-4
+  filetype: pdf

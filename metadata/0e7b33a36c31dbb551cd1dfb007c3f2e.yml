@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 0e7b33a36c31dbb551cd1dfb007c3f2e
+url: https://docs.xsufe.com/files/0e7b33a36c31dbb551cd1dfb007c3f2e.pdf
+type: book
+data:
+  title: An Introduction to Database Systems
+  authors:
+    - Christopher J. Date
+  edition: "8"
+  publisher: Pearson
+  publish_year: "2003"
+  isbn:
+    - 978-0-321-19784-9
+  filetype: pdf
