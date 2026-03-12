@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: bf48d40f801540511b70368d6d4007e9
+url: https://docs.xsufe.com/files/bf48d40f801540511b70368d6d4007e9.pdf
+type: book
+data:
+  title: 数据库实验
+  authors:
+    - 张雪凤 李欣苗 李艳红
+  edition: "1"
+  publisher: 上海财经大学出版社
+  publish_year: "2015"
+  isbn:
+    - 978-7-5642-2208-6
+  filetype: pdf
