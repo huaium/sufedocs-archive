@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: ec08fbd93100386a57892172e9472cf6
+url: https://docs.xsufe.com/files/ec08fbd93100386a57892172e9472cf6.pdf
+type: book
+data:
+  title: 中国共产党简史
+  authors:
+    - 本书编写组
+  edition: "1"
+  publisher: 人民出版社 中共党史出版社
+  publish_year: "2021"
+  isbn:
+    - 978-7-01-023203-4
+  filetype: pdf

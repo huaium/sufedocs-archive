@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 32473cc6297e02bcf0ff81032c977074
+url: https://docs.xsufe.com/files/32473cc6297e02bcf0ff81032c977074.pdf
+type: book
+data:
+  title: 克鲁格曼国际经济学（第6、7、8版）笔记和课后习题详解
+  authors:
+    - 圣才考研网
+  edition: "1"
+  publisher: 中国石化出版社
+  publish_year: "2011"
+  isbn:
+    - 978-7-5114-1255-3
+  filetype: pdf
