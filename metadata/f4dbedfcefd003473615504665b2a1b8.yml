@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: f4dbedfcefd003473615504665b2a1b8
+url: https://docs.xsufe.com/files/f4dbedfcefd003473615504665b2a1b8.pdf
+type: book
+data:
+  title: "International Economics: Theory and Policy"
+  authors:
+    - Krugman, Obstfeld and Melitz
+  edition: "11"
+  publisher: Pearson
+  publish_year: "2018"
+  isbn:
+    - 978-1-292-21487-0
+  filetype: pdf
