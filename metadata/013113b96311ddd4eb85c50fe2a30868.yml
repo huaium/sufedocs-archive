@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 013113b96311ddd4eb85c50fe2a30868
+url: https://docs.xsufe.com/files/013113b96311ddd4eb85c50fe2a30868.pdf
+type: book
+data:
+  title: 高等代数学
+  authors:
+    - 谢启鸿 姚慕生 吴泉水
+  edition: "4"
+  publisher: 复旦大学出版社
+  publish_year: "2022"
+  isbn:
+    - 978-7-309-16336-0
+  filetype: pdf

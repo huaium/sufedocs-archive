@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 305e89acfc6927a7dc6e1415918b0e49
+url: https://docs.xsufe.com/files/305e89acfc6927a7dc6e1415918b0e49.pdf
+type: book
+data:
+  title: 实变函数与泛函分析基础 学习指导与习题解答
+  authors:
+    - 胡善文 薛以锋
+  edition: "4"
+  publisher: 高等教育出版社
+  publish_year: "2021"
+  isbn:
+    - 978-7-04-055658-2
+  filetype: pdf

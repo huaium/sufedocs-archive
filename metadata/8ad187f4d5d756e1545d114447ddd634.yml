@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 8ad187f4d5d756e1545d114447ddd634
+url: https://docs.xsufe.com/files/8ad187f4d5d756e1545d114447ddd634.pdf
+type: book
+data:
+  title: 经济法概论
+  authors:
+    - 马洪
+  edition: "7"
+  publisher: 上海财经大学出版社
+  publish_year: "2017"
+  isbn:
+    - 978-7-5642-2674-9
+  filetype: pdf

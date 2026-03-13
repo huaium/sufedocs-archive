@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 40f0c639599afec5544419bae7bff347
+url: https://docs.xsufe.com/files/40f0c639599afec5544419bae7bff347.pdf
+type: book
+data:
+  title: 数学模型
+  authors:
+    - 姜启源 谢金星 叶俊
+  edition: "4"
+  publisher: 高等教育出版社
+  publish_year: "2011"
+  isbn:
+    - 978-7-04-031150-1
+  filetype: pdf

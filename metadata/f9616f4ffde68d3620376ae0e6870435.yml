@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: f9616f4ffde68d3620376ae0e6870435
+url: https://docs.xsufe.com/files/f9616f4ffde68d3620376ae0e6870435.pdf
+type: book
+data:
+  title: 概率论与数理统计 简明本
+  authors:
+    - 盛骤 谢式干 潘承毅
+  edition: "4"
+  publisher: 高等教育出版社
+  publish_year: "2009"
+  isbn:
+    - 978-7-04-027491-2
+  filetype: pdf
