@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 1fea00f6dc397c11d3dc806c3fd78c49
+url: https://docs.xsufe.com/files/1fea00f6dc397c11d3dc806c3fd78c49.pdf
+type: book
+data:
+  title: Analysis of Financial Time Series
+  authors:
+    - Ruey S. Tsay
+  edition: "3"
+  publisher: Wiley
+  publish_year: "2010"
+  isbn:
+    - 978-0-470-41435-4
+  filetype: pdf

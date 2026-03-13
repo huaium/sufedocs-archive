@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 490f08bc22779b04c362fda454bce60f
+url: https://docs.xsufe.com/files/490f08bc22779b04c362fda454bce60f.pdf
+type: book
+data:
+  title: "Introductory Econometrics: A Modern Approach"
+  authors:
+    - Jeffrey M. Wooldridge
+  edition: "6"
+  publisher: South-Western College Publishing
+  publish_year: "2015"
+  isbn:
+    - 978-1-305-27010-7
+  filetype: pdf

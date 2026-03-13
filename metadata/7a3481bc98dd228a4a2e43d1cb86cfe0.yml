@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 7a3481bc98dd228a4a2e43d1cb86cfe0
+url: https://docs.xsufe.com/files/7a3481bc98dd228a4a2e43d1cb86cfe0.pdf
+type: book
+data:
+  title: 统计学 学习指导书
+  authors:
+    - 贾俊平
+  edition: "7"
+  publisher: 中国人民大学出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-300-25685-6
+  filetype: pdf

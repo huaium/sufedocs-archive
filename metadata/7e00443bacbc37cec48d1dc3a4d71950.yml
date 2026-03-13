@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 7e00443bacbc37cec48d1dc3a4d71950
+url: https://docs.xsufe.com/files/7e00443bacbc37cec48d1dc3a4d71950.pdf
+type: book
+data:
+  title: 互联网思维3.0
+  authors:
+    - 江涛
+  edition: "1"
+  publisher: 化学工业出版社
+  publish_year: "2019"
+  isbn:
+    - 978-7-122-33914-0
+  filetype: pdf
