@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: f31a46a506cbf89d727f0e35ba6cced4
+url: https://docs.xsufe.com/files/f31a46a506cbf89d727f0e35ba6cced4.pdf
+type: book
+data:
+  title: 会计学：企业决策的基础（财务会计分册）
+  authors:
+    - Jan R. Williams; Susan F. Haka; Mark S. Better; Joseph V. Carcello
+  translators:
+    - 赵银德 沈维华 周彦 张华
+  edition: "17"
+  publisher: 机械工业出版社
+  publish_year: "2017"
+  isbn:
+    - 978-7-111-56867-4
+  filetype: pdf
