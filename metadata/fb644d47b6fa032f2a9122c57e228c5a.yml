@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: fb644d47b6fa032f2a9122c57e228c5a
+url: https://docs.xsufe.com/files/fb644d47b6fa032f2a9122c57e228c5a.pdf
+type: book
+data:
+  title: 泛函分析
+  authors:
+    - 江泽坚 孙善利
+  edition: "2"
+  publisher: 高等教育出版社
+  publish_year: "2005"
+  isbn:
+    - 978-7-04-016619-4
+  filetype: pdf

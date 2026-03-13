@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 2add9de428ed50a43d93bf86e5aca856
+url: https://docs.xsufe.com/files/2add9de428ed50a43d93bf86e5aca856.pdf
+type: book
+data:
+  title: 测度论与概率论
+  authors:
+    - 程士宏
+  edition: "1"
+  publisher: 北京大学出版社
+  publish_year: "2004"
+  isbn:
+    - 978-7-301-06345-3
+  filetype: pdf

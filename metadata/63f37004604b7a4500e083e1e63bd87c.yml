@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 63f37004604b7a4500e083e1e63bd87c
+url: https://docs.xsufe.com/files/63f37004604b7a4500e083e1e63bd87c.pdf
+type: book
+data:
+  title: 高等数学
+  authors:
+    - 同济大学数学系
+  edition: "7"
+  publisher: 高等教育出版社
+  publish_year: "2014"
+  isbn:
+    - 978-7-04-039663-8
+  filetype: pdf

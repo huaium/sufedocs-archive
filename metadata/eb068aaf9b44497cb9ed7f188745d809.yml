@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: eb068aaf9b44497cb9ed7f188745d809
+url: https://docs.xsufe.com/files/eb068aaf9b44497cb9ed7f188745d809.pdf
+type: book
+data:
+  title: 实变函数论
+  authors:
+    - 上海财经大学数学学院
+  edition: "1"
+  publisher: 上海财经大学出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-5642-2880-4
+  filetype: pdf

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 9f6b1d0cdcf3cd380d23346d1ad74dac
+url: https://docs.xsufe.com/files/9f6b1d0cdcf3cd380d23346d1ad74dac.pdf
+type: book
+data:
+  title: Schaum's Outline of Theory and Problems of Advanced Calculus
+  authors:
+    - Murray R. Spiegel
+  edition: "2"
+  publisher: McGraw-Hill Trade
+  publish_year: "1968"
+  isbn:
+    - 978-0-07-060229-8
+  filetype: pdf

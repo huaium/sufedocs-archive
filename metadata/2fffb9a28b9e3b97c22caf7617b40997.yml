@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 2fffb9a28b9e3b97c22caf7617b40997
+url: https://docs.xsufe.com/files/2fffb9a28b9e3b97c22caf7617b40997.pdf
+type: book
+data:
+  title: 高等数学 习题及习题集精解
+  authors:
+    - 杨爱珍 殷承元 叶玉全 王琪
+  edition: "1"
+  publisher: 复旦大学出版社
+  publish_year: "2013"
+  isbn:
+    - 978-7-309-09647-7
+  filetype: pdf
