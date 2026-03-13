@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 5eac4b889cbed73edecd4792bd27acec
+url: https://docs.xsufe.com/files/5eac4b889cbed73edecd4792bd27acec.pdf
+type: book
+data:
+  title: 博弈论基础 要点注释与题解精编
+  authors:
+    - 李光久
+  edition: "1"
+  publisher: 江苏大学出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-81130-033-8
+  filetype: pdf

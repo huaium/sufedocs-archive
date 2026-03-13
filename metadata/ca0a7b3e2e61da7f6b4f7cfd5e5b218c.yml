@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: ca0a7b3e2e61da7f6b4f7cfd5e5b218c
+url: https://docs.xsufe.com/files/ca0a7b3e2e61da7f6b4f7cfd5e5b218c.pdf
+type: book
+data:
+  title: 中级微观经济学学习指南
+  authors:
+    - 钟根元 陈志洪
+  edition: "4"
+  publisher: 上海交通大学出版社
+  publish_year: "2012"
+  isbn:
+    - 978-7-313-04530-0
+  filetype: pdf

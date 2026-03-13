@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: d1975abe76d294473c396fe56c8647c0
+url: https://docs.xsufe.com/files/d1975abe76d294473c396fe56c8647c0.pdf
+type: book
+data:
+  title: "Intermediate Microeconomics: A Modern Approach"
+  authors:
+    - Hal R. Varian
+  edition: "8"
+  publisher: W W Norton & Co Inc
+  publish_year: "2009"
+  isbn:
+    - 978-0-393-93424-3
+  filetype: pdf

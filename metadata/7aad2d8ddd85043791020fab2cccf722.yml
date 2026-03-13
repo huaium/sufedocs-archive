@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 7aad2d8ddd85043791020fab2cccf722
+url: https://docs.xsufe.com/files/7aad2d8ddd85043791020fab2cccf722.pdf
+type: book
+data:
+  title: 西方经济学
+  authors:
+    - 厉以宁
+  edition: "2"
+  publisher: 高等教育出版社
+  publish_year: "2005"
+  isbn:
+    - 978-7-04-017639-1
+  filetype: pdf
