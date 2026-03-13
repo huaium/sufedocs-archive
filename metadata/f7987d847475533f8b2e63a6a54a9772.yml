@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: f7987d847475533f8b2e63a6a54a9772
+url: https://docs.xsufe.com/files/f7987d847475533f8b2e63a6a54a9772.pdf
+type: book
+data:
+  title: 高等数学 第六版上册
+  authors:
+    - 同济大学数学系
+  edition: "6"
+  publisher: 高等教育出版社
+  publish_year: "2007"
+  isbn:
+    - 978-7-04-020549-7
+  filetype: pdf
