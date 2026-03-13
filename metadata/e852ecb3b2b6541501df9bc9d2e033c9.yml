@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: e852ecb3b2b6541501df9bc9d2e033c9
+url: https://docs.xsufe.com/files/e852ecb3b2b6541501df9bc9d2e033c9.pdf
+type: book
+data:
+  title: 毛泽东思想和中国特色社会主义理论体系概论
+  authors:
+    - 本书编写组
+  edition: "8"
+  publisher: 高等教育出版社
+  publish_year: "2023"
+  isbn:
+    - 978-7-04-059903-9
+  filetype: pdf

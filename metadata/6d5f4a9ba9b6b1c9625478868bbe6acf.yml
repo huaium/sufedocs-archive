@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 6d5f4a9ba9b6b1c9625478868bbe6acf
+url: https://docs.xsufe.com/files/6d5f4a9ba9b6b1c9625478868bbe6acf.pdf
+type: book
+data:
+  title: "The Big Questions: A Short Introduction to Philosophy"
+  authors:
+    - Robert C. Solomon; Kathleen M. Higgins
+  edition: "9"
+  publisher: Wadsworth Publishing
+  publish_year: "2013"
+  isbn:
+    - 978-1-133-61064-9
+  filetype: pdf
