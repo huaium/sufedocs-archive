@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: de7786b2d74ce7b593153e2f6553095e
+url: https://docs.xsufe.com/files/de7786b2d74ce7b593153e2f6553095e.pdf
+type: book
+data:
+  title: 曼昆宏观经济学
+  authors:
+    - N. 格里高利·曼昆
+  translators:
+    - 卢远瞩
+  edition: "10"
+  publisher: 中国人民大学出版社
+  publish_year: "2020"
+  isbn:
+    - 978-7-300-27631-1
+  filetype: pdf

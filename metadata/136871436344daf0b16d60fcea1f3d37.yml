@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 136871436344daf0b16d60fcea1f3d37
+url: https://docs.xsufe.com/files/136871436344daf0b16d60fcea1f3d37.pdf
+type: book
+data:
+  title: An Introduction to Game Theory
+  authors:
+    - Martin J. Osborne
+  edition: "1"
+  publisher: Oxford University Press
+  publish_year: "2003"
+  isbn:
+    - 978-0-19-512895-6
+  filetype: pdf
