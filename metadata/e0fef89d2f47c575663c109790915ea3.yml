@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: e0fef89d2f47c575663c109790915ea3
+url: https://docs.xsufe.com/files/e0fef89d2f47c575663c109790915ea3.pdf
+type: book
+data:
+  title: Horngren’s Cost Accounting - A Managerial Emphasis
+  authors:
+    - Srikant M. Datar, Madhav V. Rajan
+  edition: "16"
+  publisher: Pearson
+  publish_year: "2017"
+  isbn:
+    - 978-7-208-05544-5
+  filetype: pdf

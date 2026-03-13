@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 827af263955461786db6156b464927d3
+url: https://docs.xsufe.com/files/827af263955461786db6156b464927d3.pdf
+type: book
+data:
+  title: 管理信息系统
+  authors:
+    - Kenneth C. Laudon; Jane P. Laudon
+  translators:
+    - 薛华成
+  edition: "11"
+  publisher: 机械工业出版社
+  publish_year: "2011"
+  isbn:
+    - 978-7-111-34151-2
+  filetype: pdf

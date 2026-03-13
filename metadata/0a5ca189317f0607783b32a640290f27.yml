@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 0a5ca189317f0607783b32a640290f27
+url: https://docs.xsufe.com/files/0a5ca189317f0607783b32a640290f27.pdf
+type: book
+data:
+  title: C++程序设计
+  authors:
+    - 翁惠玉 俞勇
+  edition: "3"
+  publisher: 人民邮电出版社
+  publish_year: "2016"
+  isbn:
+    - 978-7-115-42935-3
+  filetype: pdf

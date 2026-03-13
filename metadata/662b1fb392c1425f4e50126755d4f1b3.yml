@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 662b1fb392c1425f4e50126755d4f1b3
+url: https://docs.xsufe.com/files/662b1fb392c1425f4e50126755d4f1b3.pdf
+type: book
+data:
+  title: 机器学习
+  authors:
+    - 周志华
+  edition: "1"
+  publisher: 清华大学出版社
+  publish_year: "2016"
+  isbn:
+    - 978-7-302-42328-7
+  filetype: pdf

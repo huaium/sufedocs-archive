@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 75c2a3dfa09e55fbcc77359cbfd73cbb
+url: https://docs.xsufe.com/files/75c2a3dfa09e55fbcc77359cbfd73cbb.pdf
+type: book
+data:
+  title: "Introduction to Management Accounting: Global Edition"
+  authors:
+    - Charles T. Horngren; Gary L. Sundem; David Burgstahler; Jeff Schatzberg
+  edition: "17"
+  publisher: Pearson Education Limited
+  publish_year: "2022"
+  isbn:
+    - 978-1-292-41254-2
+  filetype: pdf
