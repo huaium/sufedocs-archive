@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: d44d2bb528e42bde8f3f03bfe5ca5993
+url: https://docs.xsufe.com/files/d44d2bb528e42bde8f3f03bfe5ca5993.pdf
+type: book
+data:
+  title: 西方的智慧
+  authors:
+    - Bertrand Russell
+  translators:
+    - 马家驹 贺霖
+  edition: "1"
+  publisher: 世界知识出版社
+  publish_year: "1992"
+  isbn:
+    - 978-7-5012-0370-3
+  filetype: pdf

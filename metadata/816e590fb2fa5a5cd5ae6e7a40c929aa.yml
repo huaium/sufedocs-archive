@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 816e590fb2fa5a5cd5ae6e7a40c929aa
+url: https://docs.xsufe.com/files/816e590fb2fa5a5cd5ae6e7a40c929aa.pdf
+type: book
+data:
+  title: 马克思主义基本原理
+  authors:
+    - 本书编写组
+  edition: "2"
+  publisher: 高等教育出版社
+  publish_year: "2023"
+  isbn:
+    - 978-7-04-059900-8
+  filetype: pdf

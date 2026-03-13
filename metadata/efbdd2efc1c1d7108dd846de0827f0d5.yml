@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: efbdd2efc1c1d7108dd846de0827f0d5
+url: https://docs.xsufe.com/files/efbdd2efc1c1d7108dd846de0827f0d5.pdf
+type: book
+data:
+  title: 论语译注
+  authors:
+    - 杨伯峻
+  edition: "2"
+  publisher: 中华书局
+  publish_year: "1980"
+  isbn:
+    - 978-7-101-00334-5
+  filetype: pdf
