@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 234e0dadbd42dcc9e3803b03a899f062
+url: https://docs.xsufe.com/files/234e0dadbd42dcc9e3803b03a899f062.pdf
+type: book
+data:
+  title: 投资项目管理
+  authors:
+    - 简德三
+  edition: "1"
+  publisher: 上海财经大学出版社
+  publish_year: "2019"
+  isbn:
+    - 978-7-5642-3307-5
+  filetype: pdf

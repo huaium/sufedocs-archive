@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 7f6b1ce81307aab72789f6db502b401c
+url: https://docs.xsufe.com/files/7f6b1ce81307aab72789f6db502b401c.pdf
+type: book
+data:
+  title: 互联网金融模式与创新
+  authors:
+    - 胡世良
+  edition: "1"
+  publisher: 人民邮电出版社
+  publish_year: "2015"
+  isbn:
+    - 978-7-115-37010-5
+  filetype: pdf

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 9b609f18a3890aaf06bbd4b6562b9f79
+url: https://docs.xsufe.com/files/9b609f18a3890aaf06bbd4b6562b9f79.pdf
+type: book
+data:
+  title: Public Finance and Public Policy
+  authors:
+    - Jonathan Gruber
+  edition: "3"
+  publisher: Worth Publishers Inc.,U.S.
+  publish_year: "2009"
+  isbn:
+    - 978-1-4292-1949-5
+  filetype: pdf

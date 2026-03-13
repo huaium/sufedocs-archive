@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 5b79aee7df4518068dd9976ffde14a71
+url: https://docs.xsufe.com/files/5b79aee7df4518068dd9976ffde14a71.pdf
+type: book
+data:
+  title: 解密对冲基金组合基金：如何承担债市风险、获取股市回报
+  authors:
+    - 聂军 文芳
+  edition: "1"
+  publisher: 北京大学出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-301-29943-2
+  filetype: pdf

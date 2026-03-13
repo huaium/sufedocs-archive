@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: be57e2e4fb6acc5e6fa08c334a129152
+url: https://docs.xsufe.com/files/be57e2e4fb6acc5e6fa08c334a129152.pdf
+type: book
+data:
+  title: "Corporate Finance: Global Edition"
+  authors:
+    - Jonathan Berk; Peter DeMarzo
+  edition: "4"
+  publisher: Pearson
+  publish_year: "2016"
+  isbn:
+    - 978-1-292-16016-0
+  filetype: pdf
