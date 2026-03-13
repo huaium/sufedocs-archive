@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: cf4889702ca824ed71af0281049107cc
+url: https://docs.xsufe.com/files/cf4889702ca824ed71af0281049107cc.pdf
+type: book
+data:
+  title: 大数据技术原理与应用：概念、存储、处理、分析与应用
+  authors:
+    - 林子雨
+  edition: "3"
+  publisher: 人民邮电出版社
+  publish_year: "2021"
+  isbn:
+    - 978-7-115-54405-6
+  filetype: pdf
