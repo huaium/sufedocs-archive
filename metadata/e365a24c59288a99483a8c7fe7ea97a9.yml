@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: e365a24c59288a99483a8c7fe7ea97a9
+url: https://docs.xsufe.com/files/e365a24c59288a99483a8c7fe7ea97a9.pdf
+type: book
+data:
+  title: 统计学
+  authors:
+    - 贾俊平 何晓群 金勇进
+  edition: "7"
+  publisher: 中国人民大学出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-300-25351-0
+  filetype: pdf
