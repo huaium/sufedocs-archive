@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: bdb74def6a620a32543c21d6cfa7eed5
+url: https://docs.xsufe.com/files/bdb74def6a620a32543c21d6cfa7eed5.pdf
+type: book
+data:
+  title: 高等数学 第六版上册 习题全解指南
+  authors:
+    - 同济大学数学系
+  edition: "6"
+  publisher: 高等教育出版社
+  publish_year: "2007"
+  isbn:
+    - 978-7-04-020745-3
+  filetype: pdf

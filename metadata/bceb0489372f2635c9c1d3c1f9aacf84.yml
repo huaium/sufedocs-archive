@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: bceb0489372f2635c9c1d3c1f9aacf84
+url: https://docs.xsufe.com/files/bceb0489372f2635c9c1d3c1f9aacf84.pdf
+type: book
+data:
+  title: 运筹学
+  authors:
+    - 赵可培
+  edition: "3"
+  publisher: 上海财经大学出版社
+  publish_year: "2013"
+  isbn:
+    - 978-7-5642-1645-0
+  filetype: pdf
