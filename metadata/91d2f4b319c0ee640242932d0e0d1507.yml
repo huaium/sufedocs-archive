@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 91d2f4b319c0ee640242932d0e0d1507
+url: https://docs.xsufe.com/files/91d2f4b319c0ee640242932d0e0d1507.pdf
+type: book
+data:
+  title: 计算机网络
+  authors:
+    - 陈岗
+  edition: "1"
+  publisher: 上海财经大学出版社
+  publish_year: "2017"
+  isbn:
+    - 978-7-5642-2619-0
+  filetype: pdf

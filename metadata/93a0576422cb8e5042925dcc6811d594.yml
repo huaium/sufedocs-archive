@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 93a0576422cb8e5042925dcc6811d594
+url: https://docs.xsufe.com/files/93a0576422cb8e5042925dcc6811d594.pdf
+type: book
+data:
+  title: "Sociology: A Down-To-Earth Approach"
+  authors:
+    - James M. Henslin
+  edition: "13"
+  publisher: Pearson Education
+  publish_year: "2017"
+  isbn:
+    - 978-0-13-420557-1
+  filetype: pdf

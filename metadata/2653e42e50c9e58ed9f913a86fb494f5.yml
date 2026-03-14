@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 2653e42e50c9e58ed9f913a86fb494f5
+url: https://docs.xsufe.com/files/2653e42e50c9e58ed9f913a86fb494f5.pdf
+type: book
+data:
+  title: Wisdom of The West
+  authors:
+    - Bertrand Russell
+  edition: "1"
+  publisher: Crescent
+  publish_year: "1988"
+  isbn:
+    - 978-0-517-06420-7
+  filetype: pdf

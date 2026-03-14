@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 36139e250bb0929e99fa2982dc8985b4
+url: https://docs.xsufe.com/files/36139e250bb0929e99fa2982dc8985b4.pdf
+type: book
+data:
+  title: 金融时间序列分析
+  authors:
+    - Ruey S. Tsay
+  translators:
+    - 王远林 王辉 潘家柱
+  edition: "3"
+  publisher: 人民邮电出版社
+  publish_year: "2012"
+  isbn:
+    - 978-7-115-28762-5
+  filetype: pdf

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 0edf65b356f6d0b151991b442db8e38b
+url: https://docs.xsufe.com/files/0edf65b356f6d0b151991b442db8e38b.pdf
+type: book
+data:
+  title: 财务会计与资本市场实证研究：重点文献导读
+  authors:
+    - 陆正飞 姜国华 张然
+  edition: "2"
+  publisher: 中国人民大学出版社
+  publish_year: "2013"
+  isbn:
+    - 978-7-300-18019-9
+  filetype: pdf

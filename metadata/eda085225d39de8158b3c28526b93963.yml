@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: eda085225d39de8158b3c28526b93963
+url: https://docs.xsufe.com/files/eda085225d39de8158b3c28526b93963.pdf
+type: book
+data:
+  title: 应用随机过程概率模型导论
+  authors:
+    - Sheldon M. Ross
+  translators:
+    - 龚光鲁
+  edition: "11"
+  publisher: 人民邮电出版社
+  publish_year: "2016"
+  isbn:
+    - 978-7-115-40430-5
+  filetype: pdf

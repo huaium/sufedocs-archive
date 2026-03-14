@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: add9b7387266a54eb0a44a1780043910
+url: https://docs.xsufe.com/files/add9b7387266a54eb0a44a1780043910.pdf
+type: book
+data:
+  title: 货币金融学
+  authors:
+    - 戴国强
+  edition: "4"
+  publisher: 上海财经大学出版社
+  publish_year: "2017"
+  isbn:
+    - 978-7-5642-2791-3
+  filetype: pdf
