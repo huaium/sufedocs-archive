@@ -32,6 +32,7 @@ jobs:
         with:
           owner: bblanchon
           repo: pdfium-binaries
+          token: ${{ secrets.GH_FINE_GRAINED_TOKEN }}
 
       - id: app-token
         name: Create GitHub App token
