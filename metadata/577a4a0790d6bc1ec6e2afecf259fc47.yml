@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 577a4a0790d6bc1ec6e2afecf259fc47
+url: https://docs.xsufe.com/files/577a4a0790d6bc1ec6e2afecf259fc47.pdf
+type: book
+data:
+  title: 商务与经济统计 英文版
+  authors:
+    - David R. Anderson, Dennis J. Sweeney, Thomas A. Williams, Jeffrey D. Camm, James J. Cochran
+  translators:
+    - 张建华 王健 聂巧平 等
+  edition: "13"
+  publisher: 机械工业出版社
+  publish_year: "2017"
+  isbn:
+    - 978-7-111-57327-2
+  filetype: pdf

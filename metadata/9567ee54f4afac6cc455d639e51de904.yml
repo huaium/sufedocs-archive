@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 9567ee54f4afac6cc455d639e51de904
+url: https://docs.xsufe.com/files/9567ee54f4afac6cc455d639e51de904.pdf
+type: book
+data:
+  title: 战略管理：概念与案例
+  authors:
+    - Arthur A. Thompon, Jr., Margaret A. Peteraf, John E. Gamble, A. J. Strickland III
+  translators:
+    - 于晓宇 王家宝 等
+  edition: "21"
+  publisher: 机械工业出版社
+  publish_year: "2019"
+  isbn:
+    - 978-7-111-64086-8
+  filetype: pdf
