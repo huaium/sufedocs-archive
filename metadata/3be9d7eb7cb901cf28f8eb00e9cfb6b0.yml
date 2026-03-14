@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 3be9d7eb7cb901cf28f8eb00e9cfb6b0
+url: https://docs.xsufe.com/files/3be9d7eb7cb901cf28f8eb00e9cfb6b0.pdf
+type: book
+data:
+  title: 公司理财
+  authors:
+    - Stephen A. Ross, Randoloh W. Westerfield, Jeffrey F. Jaffe, Bradford D. Jordan
+  translators:
+    - 吴世农 沈艺峰 王志强
+  edition: "11"
+  publisher: 机械工业出版社
+  publish_year: "2017"
+  isbn:
+    - 978-7-111-57415-6
+  filetype: pdf
