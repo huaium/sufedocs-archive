@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: bcf12ffbf88c907d02fce64764a3970a
+url: https://docs.xsufe.com/files/bcf12ffbf88c907d02fce64764a3970a.pdf
+type: book
+data:
+  title: "Horngren's Cost Accounting: A Managerial Emphasis (Global Edition)"
+  authors:
+    - Srikant M. Datar & Madhav V. Rajan
+  edition: "16"
+  publisher: Pearson Education
+  publish_year: "2017"
+  isbn:
+    - 978-1-292-21154-1
+  filetype: pdf

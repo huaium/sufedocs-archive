@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: f6d77512a96d1d2f1daee7ef8120a99b
+url: https://docs.xsufe.com/files/f6d77512a96d1d2f1daee7ef8120a99b.pdf
+type: book
+data:
+  title: 金融市场学
+  authors:
+    - 张亦春 郑振龙 林海
+  edition: "5"
+  publisher: 高等教育出版社
+  publish_year: "2017"
+  isbn:
+    - 978-7-04-048633-9
+  filetype: pdf
