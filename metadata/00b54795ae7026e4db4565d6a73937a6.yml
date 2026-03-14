@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 00b54795ae7026e4db4565d6a73937a6
+url: https://docs.xsufe.com/files/00b54795ae7026e4db4565d6a73937a6.pdf
+type: book
+data:
+  title: Advanced Financial Accounting IFRS edition SHUFE 2025 with OCR
+  authors:
+    - Pearl Tan Hock Neo
+  edition: "1"
+  publisher: McGraw-Hill
+  publish_year: "2025"
+  isbn:
+    - 978-1-307-96528-5
+  filetype: pdf
