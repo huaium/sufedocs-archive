@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 972a44e680bada02f0379904cd955250
+url: https://docs.xsufe.com/files/972a44e680bada02f0379904cd955250.pdf
+type: book
+data:
+  title: 大问题：简明哲学导论
+  authors:
+    - Robert C. Solomon
+  translators:
+    - 张卜天
+  edition: "6"
+  publisher: 广西师范大学出版社
+  publish_year: "2004"
+  isbn:
+    - 978-7-5633-4523-6
+  filetype: pdf

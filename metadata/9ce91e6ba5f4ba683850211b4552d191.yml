@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 9ce91e6ba5f4ba683850211b4552d191
+url: https://docs.xsufe.com/files/9ce91e6ba5f4ba683850211b4552d191.pdf
+type: book
+data:
+  title: 成本会计
+  authors:
+    - 潘飞 乐艳芬
+  edition: "5"
+  publisher: 上海财经大学出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-5642-3033-3
+  filetype: pdf
