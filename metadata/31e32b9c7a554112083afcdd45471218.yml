@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 31e32b9c7a554112083afcdd45471218
+url: https://docs.xsufe.com/files/31e32b9c7a554112083afcdd45471218.pdf
+type: book
+data:
+  title: 计量经济学导论：现代观点
+  authors:
+    - Jeffrey M. Wooldridge
+  edition: "6"
+  publisher: 中国人民大学出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-300-25914-7
+  filetype: pdf

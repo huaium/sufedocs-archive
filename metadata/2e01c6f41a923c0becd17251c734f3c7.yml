@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 2e01c6f41a923c0becd17251c734f3c7
+url: https://docs.xsufe.com/files/2e01c6f41a923c0becd17251c734f3c7.pdf
+type: book
+data:
+  title: 微观经济学现代观点
+  authors:
+    - Hal R. Varian
+  translators:
+    - 费方域 朱保华 等
+  edition: "9"
+  publisher: 格致出版社 上海三联书店 上海人民出版社
+  publish_year: "2015"
+  isbn:
+    - 978-7-5432-2461-2
+  filetype: pdf

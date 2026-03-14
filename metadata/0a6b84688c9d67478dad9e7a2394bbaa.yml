@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 0a6b84688c9d67478dad9e7a2394bbaa
+url: https://docs.xsufe.com/files/0a6b84688c9d67478dad9e7a2394bbaa.pdf
+type: book
+data:
+  title: 公共财政概论
+  authors:
+    - 《公共财政概论》编写组
+  edition: "1"
+  publisher: 高等教育出版社
+  publish_year: "2019"
+  isbn:
+    - 978-7-04-052210-5
+  filetype: pdf
