@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: e9275ef816d37f3b790038aae5f538f0
+url: https://docs.xsufe.com/files/e9275ef816d37f3b790038aae5f538f0.pdf
+type: book
+data:
+  title: Investments
+  authors:
+    - Zvi Bodie, Alex Kane & Alan J Marcus
+  edition: "10"
+  publisher: McGraw-Hill Professional
+  publish_year: "2013"
+  isbn:
+    - 978-0-07-786167-4
+  filetype: pdf

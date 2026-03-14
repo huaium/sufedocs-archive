@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 529078f881791d474f4517265d3ca9ec
+url: https://docs.xsufe.com/files/529078f881791d474f4517265d3ca9ec.pdf
+type: book
+data:
+  title: Intermediate Accounting IFRS
+  authors:
+    - Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield
+  edition: "4"
+  publisher: Wiley
+  publish_year: "2020"
+  isbn:
+    - 978-1-119-60751-9
+  filetype: pdf
