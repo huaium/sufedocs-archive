@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 8748ba9373abf3a720a9cfc56f26bcca
+url: https://docs.xsufe.com/files/8748ba9373abf3a720a9cfc56f26bcca.pdf
+type: book
+data:
+  title: 全国计算机等级考试二级教程 Python语言程序设计：2019年版
+  authors:
+    - 嵩天
+  edition: "1"
+  publisher: 高等教育出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-04-050761-4
+  filetype: pdf

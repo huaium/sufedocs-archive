@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 1d0f1d627761c4d2146498934e52291a
+url: https://docs.xsufe.com/files/1d0f1d627761c4d2146498934e52291a.pdf
+type: book
+data:
+  title: 概率论与数理统计 学习指导与习题全解
+  authors:
+    - 上海财经大学数学学院
+  edition: "1"
+  publisher: 人民邮电出版社
+  publish_year: "2023"
+  isbn:
+    - 978-7-115-59120-3
+  filetype: pdf

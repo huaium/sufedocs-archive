@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: ea06106c57fc5d5bd2f1f3ca8327e4f4
+url: https://docs.xsufe.com/files/ea06106c57fc5d5bd2f1f3ca8327e4f4.pdf
+type: book
+data:
+  title: Statistics for Business & Economics, Revised
+  authors:
+    - David R. Anderson, Dennis J. Sweeney, Thomas A. Williams, Jeffrey D. Camm, James J. Cochran
+  edition: "13"
+  publisher: Cengage Learning
+  publish_year: "2017"
+  isbn:
+    - 978-1-305-88188-4
+  filetype: pdf
