@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: dfe6f3be06ca7a44eba42dc83efea6be
+url: https://docs.xsufe.com/files/dfe6f3be06ca7a44eba42dc83efea6be.pdf
+type: book
+data:
+  title: 国民经济核算原理与中国实践 学习指导书
+  authors:
+    - 高敏雪 刘晓静 王思瑶
+  edition: "4"
+  publisher: 中国人民大学出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-300-26237-6
+  filetype: pdf

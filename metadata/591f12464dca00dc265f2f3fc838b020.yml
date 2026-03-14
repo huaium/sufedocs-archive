@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 591f12464dca00dc265f2f3fc838b020
+url: https://docs.xsufe.com/files/591f12464dca00dc265f2f3fc838b020.pdf
+type: book
+data:
+  title: 数学分析 第五版（下册）
+  authors:
+    - 华东师范大学数学科学学院
+  edition: "5"
+  publisher: 高等教育出版社
+  publish_year: "2019"
+  isbn:
+    - 978-7-04-051323-3
+  filetype: pdf

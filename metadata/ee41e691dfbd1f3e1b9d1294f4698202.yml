@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: ee41e691dfbd1f3e1b9d1294f4698202
+url: https://docs.xsufe.com/files/ee41e691dfbd1f3e1b9d1294f4698202.pdf
+type: book
+data:
+  title: 马克思主义政治经济学概论
+  authors:
+    - 《马克思主义政治经济学概论》编写组
+  edition: "2"
+  publisher: 人民出版社
+  publish_year: "2021"
+  isbn:
+    - 978-7-01-023355-0
+  filetype: pdf

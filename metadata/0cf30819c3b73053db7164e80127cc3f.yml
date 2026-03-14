@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 0cf30819c3b73053db7164e80127cc3f
+url: https://docs.xsufe.com/files/0cf30819c3b73053db7164e80127cc3f.pdf
+type: book
+data:
+  title: 概率论与数理统计 习题全解指南：浙大 第五版
+  authors:
+    - 盛骤 谢式干 潘承毅
+  edition: "5"
+  publisher: 高等教育出版社
+  publish_year: "2020"
+  isbn:
+    - 978-7-04-051548-0
+  filetype: pdf
