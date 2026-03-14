@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 1d11f80a65cc8a4f408ac57720973318
+url: https://docs.xsufe.com/files/1d11f80a65cc8a4f408ac57720973318.pdf
+type: book
+data:
+  title: 中级财务会计 微课版 学习指导书
+  authors:
+    - 石本仁
+  edition: "4"
+  publisher: 人民邮电出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-115-49144-2
+  filetype: pdf
