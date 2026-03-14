@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 1fc955468a1af4c6059c6e23a8e81e5c
+url: https://docs.xsufe.com/files/1fc955468a1af4c6059c6e23a8e81e5c.pdf
+type: book
+data:
+  title: 概率论与数理统计：浙大 第五版
+  authors:
+    - 盛骤 谢式干 潘承毅
+  edition: "5"
+  publisher: 高等教育出版社
+  publish_year: "2019"
+  isbn:
+    - 978-7-04-051660-9
+  filetype: pdf
