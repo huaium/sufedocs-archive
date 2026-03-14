@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 97511b67a9040c9c544547b8aab96b8f
+url: https://docs.xsufe.com/files/97511b67a9040c9c544547b8aab96b8f.pdf
+type: book
+data:
+  title: Macroeconomics
+  authors:
+    - N. Gregory Mankiw
+  edition: "10"
+  publisher: Worth Pub
+  publish_year: "2018"
+  isbn:
+    - 978-1-319-10599-0
+  filetype: pdf
