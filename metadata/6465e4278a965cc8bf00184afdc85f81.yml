@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 6465e4278a965cc8bf00184afdc85f81
+url: https://docs.xsufe.com/files/6465e4278a965cc8bf00184afdc85f81.pdf
+type: book
+data:
+  title: 常微分方程 第二版
+  authors:
+    - 张晓梅 张振宇 张立柱
+  edition: "2"
+  publisher: 复且大学出版社
+  publish_year: "2016"
+  isbn:
+    - 978-7-309-12224-4
+  filetype: pdf

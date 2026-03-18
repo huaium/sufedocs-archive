@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: becdd005fc62db7e6fc27767a2ff5d26
+url: https://docs.xsufe.com/files/becdd005fc62db7e6fc27767a2ff5d26.pdf
+type: book
+data:
+  title: 投资银行、对冲基金和私募股权投资（原书第3版）
+  authors:
+    - David P. Stowell
+  translators:
+    - 马晓军 黄嵩
+  edition: "3"
+  publisher: 机械工业出版社
+  publish_year: "2019"
+  isbn:
+    - 978-7-111-62106-5
+  filetype: pdf
