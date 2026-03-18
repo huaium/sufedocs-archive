@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: c198607abf90981e9c885995b6cf2f61
+url: https://docs.xsufe.com/files/c198607abf90981e9c885995b6cf2f61.pdf
+type: book
+data:
+  title: 计量经济学（第五版） 学习指南与练习
+  authors:
+    - 潘文卿 李子奈
+  edition: "1"
+  publisher: 高等教育出版社
+  publish_year: "2021"
+  isbn:
+    - 978-7-04-055412-0
+  filetype: pdf

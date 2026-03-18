@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 30584dceec1927e9c2d3053a18749a97
+url: https://docs.xsufe.com/files/30584dceec1927e9c2d3053a18749a97.pdf
+type: book
+data:
+  title: 计量经济学（第五版）
+  authors:
+    - 李子奈 潘文卿
+  edition: "5"
+  publisher: 高等教育出版社
+  publish_year: "2020"
+  isbn:
+    - 978-7-04-054522-7
+  filetype: pdf

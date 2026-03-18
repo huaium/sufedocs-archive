@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 706210fae3d6da65ab2be6f94bd37699
+url: https://docs.xsufe.com/files/706210fae3d6da65ab2be6f94bd37699.pdf
+type: book
+data:
+  title: 国民经济核算原理与中国实践
+  authors:
+    - 高敏雪 李静萍 许健
+  edition: "4"
+  publisher: 中国人民大学出版社
+  publish_year: "2018"
+  isbn:
+    - 978-7-300-26162-1
+  filetype: pdf
