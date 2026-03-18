@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 853d97bf6e625251b41a216769057208
+url: https://docs.xsufe.com/files/853d97bf6e625251b41a216769057208.pdf
+type: book
+data:
+  title: 常微分方程教程
+  authors:
+    - 丁同仁
+  edition: "2"
+  publisher: 高等教育出版社
+  publish_year: "2004"
+  isbn:
+    - 978-7-04-014369-0
+  filetype: pdf
