@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://docs.xsufe.com/schema/book.yaml
+
+id: 0b47a7b145e77bfb46a2db73fa4c8def
+url: https://docs.xsufe.com/files/0b47a7b145e77bfb46a2db73fa4c8def.pdf
+type: book
+data:
+  title: 中国近现代史纲要（2023年版）
+  authors:
+    - 本书编写组
+  edition: "9"
+  publisher: 高等教育出版社
+  publish_year: "2023"
+  isbn:
+    - 978-7-04-059901-5
+  filetype: pdf
